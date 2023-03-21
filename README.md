@@ -1,6 +1,4 @@
-#Mematic
-Quick start:
-
+### Mematic
 ```
 $ yarn # npm install
 $ yarn build # npm run build
